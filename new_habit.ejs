@@ -1,0 +1,15 @@
+<!-- views/new_habit.ejs -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>New Habit</title>
+</head>
+<body>
+  <h1>Add a New Habit</h1>
+  <form action="/add_habit" method="POST">
+    <label for="habitName">Habit Name:</label>
+    <input type="text" id="habitName" name="habitName" required>
+    <button type="submit">Add Habit</button>
+  </form>
+</body>
+</html>
