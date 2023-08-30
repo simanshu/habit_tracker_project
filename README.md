@@ -10,7 +10,7 @@ A habit tracker app, where we can define habits and track them. Create a fullsta
 4:- create index.ejs here my webpage build
 5:- create second web page new_habit.ejs here we build add habit
 6:- create css file named styles.css here i built some styling on my page
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 habit-tracker
 |
 |--- node_modules/
@@ -22,4 +22,4 @@ habit-tracker
 |--- index.js
 |---package.json
 |---package-lock.json
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
